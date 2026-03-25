@@ -1,20 +1,20 @@
 {
-  "updateTime": "2026-03-25T02:55:58.596Z",
+  "updateTime": "2026-03-25T03:12:41.535Z",
   "totalStocks": 103,
   "signals": [
     {
       "code": "600519",
       "stockName": "����ę́",
       "sector": "白酒",
-      "current": 1412.05,
-      "changePercent": 0.34,
+      "current": 1409.78,
+      "changePercent": 0.17,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额19.2亿，估算大单占比50%"
+          "detail": "成交额20.7亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -23,15 +23,15 @@
       "code": "000858",
       "stockName": "�� �� Һ",
       "sector": "白酒",
-      "current": 102.2,
-      "changePercent": 0.85,
+      "current": 102.15,
+      "changePercent": 0.8,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额5.5亿，估算大单占比50%"
+          "detail": "成交额6.1亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -40,15 +40,15 @@
       "code": "000568",
       "stockName": "�����Ͻ�",
       "sector": "白酒",
-      "current": 103.68,
-      "changePercent": 0.28,
+      "current": 103.54,
+      "changePercent": 0.15,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额2.9亿，估算大单占比50%"
+          "detail": "成交额3.2亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -57,15 +57,15 @@
       "code": "600809",
       "stockName": "ɽ���ھ�",
       "sector": "白酒",
-      "current": 148.99,
-      "changePercent": 0.36,
+      "current": 148.5,
+      "changePercent": 0.03,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额2.9亿，估算大单占比50%"
+          "detail": "成交额3.3亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -74,141 +74,49 @@
       "code": "601318",
       "stockName": "�й�ƽ��",
       "sector": "保险",
-      "current": 58.83,
-      "changePercent": 1.22,
+      "current": 58.56,
+      "changePercent": 0.76,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额18.6亿，估算大单占比30%"
+          "detail": "成交额20.3亿，估算大单占比30%"
         }
       ],
       "score": 20
-    },
-    {
-      "code": "601601",
-      "stockName": "�й�̫��",
-      "sector": "保险",
-      "current": 38.4,
-      "changePercent": 2.15,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.0%，今日涨幅2.15%"
-        }
-      ],
-      "score": 30
-    },
-    {
-      "code": "601688",
-      "stockName": "��̩֤ȯ",
-      "sector": "券商",
-      "current": 19,
-      "changePercent": 3.04,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.3%，今日涨幅3.04%"
-        }
-      ],
-      "score": 30
     },
     {
       "code": "002594",
       "stockName": "���ǵ�",
       "sector": "新能源汽车",
-      "current": 106.9,
-      "changePercent": 0.24,
+      "current": 106.71,
+      "changePercent": 0.07,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额42.1亿，估算大单占比50%"
+          "detail": "成交额45.2亿，估算大单占比50%"
         }
       ],
       "score": 20
-    },
-    {
-      "code": "600104",
-      "stockName": "��������",
-      "sector": "汽车",
-      "current": 14.37,
-      "changePercent": 2.06,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.1%，今日涨幅2.06%"
-        }
-      ],
-      "score": 30
-    },
-    {
-      "code": "000338",
-      "stockName": "Ϋ����",
-      "sector": "汽车零部件",
-      "current": 24.74,
-      "changePercent": 4.34,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅4.4%，今日涨幅4.34%"
-        },
-        {
-          "type": "V 型反转",
-          "score": 35,
-          "level": "🚀",
-          "desc": "昨日大跌今日大涨",
-          "detail": "昨日-4.4%，今日4.3%"
-        }
-      ],
-      "score": 65
     },
     {
       "code": "002594",
       "stockName": "���ǵ�",
       "sector": "新能源汽车",
-      "current": 106.9,
-      "changePercent": 0.24,
+      "current": 106.71,
+      "changePercent": 0.07,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额42.1亿，估算大单占比50%"
-        }
-      ],
-      "score": 20
-    },
-    {
-      "code": "002460",
-      "stockName": "�ӷ��ҵ",
-      "sector": "锂电池",
-      "current": 69.22,
-      "changePercent": 0.01,
-      "signals": [
-        {
-          "type": "资金流入",
-          "score": 20,
-          "level": "💰",
-          "desc": "大单资金可能流入",
-          "detail": "成交额22.8亿，估算大单占比30%"
+          "detail": "成交额45.2亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -217,104 +125,32 @@
       "code": "603799",
       "stockName": "������ҵ",
       "sector": "锂电池",
-      "current": 57.58,
-      "changePercent": 2.2,
+      "current": 57.56,
+      "changePercent": 2.17,
       "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅1.9%，今日涨幅2.2%"
-        },
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额24.7亿，估算大单占比30%"
+          "detail": "成交额26.0亿，估算大单占比30%"
         }
       ],
-      "score": 50
-    },
-    {
-      "code": "600547",
-      "stockName": "ɽ���ƽ�",
-      "sector": "黄金",
-      "current": 39.86,
-      "changePercent": 3.08,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅3.6%，今日涨幅3.08%"
-        },
-        {
-          "type": "V 型反转",
-          "score": 35,
-          "level": "🚀",
-          "desc": "昨日大跌今日大涨",
-          "detail": "昨日-3.6%，今日3.1%"
-        }
-      ],
-      "score": 65
-    },
-    {
-      "code": "601899",
-      "stockName": "�Ͻ��ҵ",
-      "sector": "有色金属",
-      "current": 33.5,
-      "changePercent": 4.04,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅3.9%，今日涨幅4.04%"
-        },
-        {
-          "type": "V 型反转",
-          "score": 35,
-          "level": "🚀",
-          "desc": "昨日大跌今日大涨",
-          "detail": "昨日-3.9%，今日4.0%"
-        }
-      ],
-      "score": 65
-    },
-    {
-      "code": "000630",
-      "stockName": "ͭ����ɫ",
-      "sector": "有色金属",
-      "current": 5.93,
-      "changePercent": 2.07,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅2.4%，今日涨幅2.07%"
-        }
-      ],
-      "score": 30
+      "score": 20
     },
     {
       "code": "600276",
       "stockName": "����ҽҩ",
       "sector": "医药",
-      "current": 54.19,
-      "changePercent": 1.03,
+      "current": 54.03,
+      "changePercent": 0.73,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额11.9亿，估算大单占比30%"
+          "detail": "成交额12.9亿，估算大单占比30%"
         }
       ],
       "score": 20
@@ -331,7 +167,7 @@
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额1.1亿，估算大单占比30%"
+          "detail": "成交额1.2亿，估算大单占比30%"
         }
       ],
       "score": 20
@@ -340,49 +176,32 @@
       "code": "000661",
       "stockName": "��������",
       "sector": "医药",
-      "current": 85.98,
-      "changePercent": 1.33,
+      "current": 85.88,
+      "changePercent": 1.21,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额1.5亿，估算大单占比30%"
+          "detail": "成交额1.6亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
-      "code": "600104",
-      "stockName": "��������",
-      "sector": "汽车",
-      "current": 14.37,
-      "changePercent": 2.06,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.1%，今日涨幅2.06%"
-        }
-      ],
-      "score": 30
-    },
-    {
       "code": "000333",
       "stockName": "���ļ���",
       "sector": "家电",
-      "current": 74.38,
-      "changePercent": 0.2,
+      "current": 74.42,
+      "changePercent": 0.26,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额6.6亿，估算大单占比30%"
+          "detail": "成交额7.2亿，估算大单占比30%"
         }
       ],
       "score": 20
@@ -391,15 +210,15 @@
       "code": "600941",
       "stockName": "�й��ƶ�",
       "sector": "通信",
-      "current": 94,
-      "changePercent": 0.13,
+      "current": 93.95,
+      "changePercent": 0.07,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额4.1亿，估算大单占比30%"
+          "detail": "成交额4.4亿，估算大单占比30%"
         }
       ],
       "score": 20
@@ -408,91 +227,53 @@
       "code": "603986",
       "stockName": "���״���",
       "sector": "半导体",
-      "current": 279.45,
-      "changePercent": 2.1,
+      "current": 278,
+      "changePercent": 1.57,
       "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.5%，今日涨幅2.1%"
-        },
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额52.5亿，估算大单占比50%"
+          "detail": "成交额56.4亿，估算大单占比50%"
         }
       ],
-      "score": 50
+      "score": 20
     },
     {
       "code": "601138",
       "stockName": "��ҵ����",
       "sector": "AI 服务器",
-      "current": 50.5,
-      "changePercent": 3.4,
+      "current": 50.16,
+      "changePercent": 2.7,
       "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅1.1%，今日涨幅3.4%"
-        },
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额41.6亿，估算大单占比30%"
+          "detail": "成交额44.5亿，估算大单占比30%"
         }
       ],
-      "score": 50
-    },
-    {
-      "code": "002156",
-      "stockName": "ͨ��΢��",
-      "sector": "半导体",
-      "current": 43.29,
-      "changePercent": 2.88,
-      "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅1.0%，今日涨幅2.88%"
-        }
-      ],
-      "score": 30
+      "score": 20
     },
     {
       "code": "002049",
       "stockName": "�Ϲ��΢",
       "sector": "军工电子",
-      "current": 68.79,
-      "changePercent": 2.06,
+      "current": 68.65,
+      "changePercent": 1.85,
       "signals": [
-        {
-          "type": "超卖反弹",
-          "score": 30,
-          "level": "📈",
-          "desc": "连续3日下跌后反弹",
-          "detail": "前期跌幅0.7%，今日涨幅2.06%"
-        },
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额5.5亿，估算大单占比30%"
+          "detail": "成交额5.9亿，估算大单占比30%"
         }
       ],
-      "score": 50
+      "score": 20
     }
   ],
-  "lastScan": "2026年3月25日 10:55"
+  "lastScan": "2026年3月25日 11:12"
 }
