@@ -1,30 +1,30 @@
 {
-  "updateTime": "2026-03-25T03:12:41.535Z",
+  "updateTime": "2026-03-25T03:13:24.436Z",
   "totalStocks": 103,
   "signals": [
     {
       "code": "600519",
-      "stockName": "����ę́",
+      "stockName": "贵州茅台",
       "sector": "白酒",
-      "current": 1409.78,
-      "changePercent": 0.17,
+      "current": 1408.99,
+      "changePercent": 0.12,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额20.7亿，估算大单占比50%"
+          "detail": "成交额20.8亿，估算大单占比50%"
         }
       ],
       "score": 20
     },
     {
       "code": "000858",
-      "stockName": "�� �� Һ",
+      "stockName": "五 粮 液",
       "sector": "白酒",
-      "current": 102.15,
-      "changePercent": 0.8,
+      "current": 102.14,
+      "changePercent": 0.79,
       "signals": [
         {
           "type": "资金流入",
@@ -38,10 +38,10 @@
     },
     {
       "code": "000568",
-      "stockName": "�����Ͻ�",
+      "stockName": "泸州老窖",
       "sector": "白酒",
-      "current": 103.54,
-      "changePercent": 0.15,
+      "current": 103.43,
+      "changePercent": 0.04,
       "signals": [
         {
           "type": "资金流入",
@@ -54,25 +54,8 @@
       "score": 20
     },
     {
-      "code": "600809",
-      "stockName": "ɽ���ھ�",
-      "sector": "白酒",
-      "current": 148.5,
-      "changePercent": 0.03,
-      "signals": [
-        {
-          "type": "资金流入",
-          "score": 20,
-          "level": "💰",
-          "desc": "大单资金可能流入",
-          "detail": "成交额3.3亿，估算大单占比50%"
-        }
-      ],
-      "score": 20
-    },
-    {
       "code": "601318",
-      "stockName": "�й�ƽ��",
+      "stockName": "中国平安",
       "sector": "保险",
       "current": 58.56,
       "changePercent": 0.76,
@@ -82,51 +65,17 @@
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额20.3亿，估算大单占比30%"
-        }
-      ],
-      "score": 20
-    },
-    {
-      "code": "002594",
-      "stockName": "���ǵ�",
-      "sector": "新能源汽车",
-      "current": 106.71,
-      "changePercent": 0.07,
-      "signals": [
-        {
-          "type": "资金流入",
-          "score": 20,
-          "level": "💰",
-          "desc": "大单资金可能流入",
-          "detail": "成交额45.2亿，估算大单占比50%"
-        }
-      ],
-      "score": 20
-    },
-    {
-      "code": "002594",
-      "stockName": "���ǵ�",
-      "sector": "新能源汽车",
-      "current": 106.71,
-      "changePercent": 0.07,
-      "signals": [
-        {
-          "type": "资金流入",
-          "score": 20,
-          "level": "💰",
-          "desc": "大单资金可能流入",
-          "detail": "成交额45.2亿，估算大单占比50%"
+          "detail": "成交额20.6亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
       "code": "603799",
-      "stockName": "������ҵ",
+      "stockName": "华友钴业",
       "sector": "锂电池",
-      "current": 57.56,
-      "changePercent": 2.17,
+      "current": 57.54,
+      "changePercent": 2.13,
       "signals": [
         {
           "type": "资金流入",
@@ -140,27 +89,27 @@
     },
     {
       "code": "600276",
-      "stockName": "����ҽҩ",
+      "stockName": "恒瑞医药",
       "sector": "医药",
-      "current": 54.03,
-      "changePercent": 0.73,
+      "current": 54,
+      "changePercent": 0.67,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额12.9亿，估算大单占比30%"
+          "detail": "成交额13.0亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
       "code": "000538",
-      "stockName": "���ϰ�ҩ",
+      "stockName": "云南白药",
       "sector": "医药",
-      "current": 55.61,
-      "changePercent": 0.22,
+      "current": 55.58,
+      "changePercent": 0.16,
       "signals": [
         {
           "type": "资金流入",
@@ -174,10 +123,10 @@
     },
     {
       "code": "000661",
-      "stockName": "��������",
+      "stockName": "长春高新",
       "sector": "医药",
-      "current": 85.88,
-      "changePercent": 1.21,
+      "current": 85.86,
+      "changePercent": 1.19,
       "signals": [
         {
           "type": "资金流入",
@@ -191,10 +140,10 @@
     },
     {
       "code": "000333",
-      "stockName": "���ļ���",
+      "stockName": "美的集团",
       "sector": "家电",
-      "current": 74.42,
-      "changePercent": 0.26,
+      "current": 74.39,
+      "changePercent": 0.22,
       "signals": [
         {
           "type": "资金流入",
@@ -208,10 +157,10 @@
     },
     {
       "code": "600941",
-      "stockName": "�й��ƶ�",
+      "stockName": "中国移动",
       "sector": "通信",
-      "current": 93.95,
-      "changePercent": 0.07,
+      "current": 93.9,
+      "changePercent": 0.02,
       "signals": [
         {
           "type": "资金流入",
@@ -225,44 +174,44 @@
     },
     {
       "code": "603986",
-      "stockName": "���״���",
+      "stockName": "兆易创新",
       "sector": "半导体",
-      "current": 278,
-      "changePercent": 1.57,
+      "current": 277.92,
+      "changePercent": 1.54,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额56.4亿，估算大单占比50%"
+          "detail": "成交额56.5亿，估算大单占比50%"
         }
       ],
       "score": 20
     },
     {
       "code": "601138",
-      "stockName": "��ҵ����",
+      "stockName": "工业富联",
       "sector": "AI 服务器",
-      "current": 50.16,
-      "changePercent": 2.7,
+      "current": 50.13,
+      "changePercent": 2.64,
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额44.5亿，估算大单占比30%"
+          "detail": "成交额44.7亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
       "code": "002049",
-      "stockName": "�Ϲ��΢",
+      "stockName": "紫光国微",
       "sector": "军工电子",
-      "current": 68.65,
-      "changePercent": 1.85,
+      "current": 68.62,
+      "changePercent": 1.81,
       "signals": [
         {
           "type": "资金流入",
@@ -275,5 +224,5 @@
       "score": 20
     }
   ],
-  "lastScan": "2026年3月25日 11:12"
+  "lastScan": "2026年3月25日 11:13"
 }
