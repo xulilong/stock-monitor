@@ -415,7 +415,10 @@
             
             const changeClass = stock.changePercent >= 0 ? 'up' : 'down';
             const changeSign = stock.changePercent >= 0 ? '+' : '';
-            const targetPrice = (stock.current * 1.1).toFixed(2); // 目标价 +10%
+            const targetPrice = stock.targetPrice || (stock.current * 1.1).toFixed(2);
+            const targetConfidence = stock.targetConfidence || '中';
+            const targetFactors = stock.targetFactors || [];
+            const expectedChange = stock.expectedChange || 10;
             const scoreClass = stock.score >= 60 ? 'excellent' : stock.score >= 40 ? 'good' : 'fair';
             
             // 生成随机走势数据用于图表
@@ -439,7 +442,11 @@
                 
                 <div class="target-price">
                     <div class="target-label">🎯 目标股价 (AI 预测)</div>
-                    <div class="target-value">¥${targetPrice} (+10%)</div>
+                    <div class="target-value">¥${targetPrice} (${expectedChange >= 0 ? '+' : ''}${expectedChange}%)</div>
+                    <div style="margin-top: 8px; font-size: 0.85em; color: #a0a0a0;">
+                        <span>置信度：${getConfidenceColor(targetConfidence)}</span>
+                        ${targetFactors.length > 0 ? `<br>📊 预测依据：${targetFactors.map(f => `<span class="signal-badge watch">${f}</span>`).join('')}` : ''}
+                    </div>
                 </div>
                 
                 <div class="chart-container">
@@ -546,6 +553,15 @@
             if (ratio >= 2) return 'good';
             if (ratio >= 1.5) return 'neutral';
             return 'bad';
+        }
+        
+        function getConfidenceColor(confidence) {
+            const colors = {
+                '高': '<span style="color: #00ff88">● 高</span>',
+                '中': '<span style="color: #ffa500">● 中</span>',
+                '低': '<span style="color: #ff6b6b">● 低</span>'
+            };
+            return colors[confidence] || confidence;
         }
         
         // 看板切换
