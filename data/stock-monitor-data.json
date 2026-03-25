@@ -1,37 +1,51 @@
 {
-  "updateTime": "2026-03-25T03:13:24.436Z",
+  "updateTime": "2026-03-25T03:20:48.730Z",
   "totalStocks": 103,
   "signals": [
     {
       "code": "600519",
       "stockName": "贵州茅台",
       "sector": "白酒",
-      "current": 1408.99,
-      "changePercent": 0.12,
+      "current": 1409.31,
+      "changePercent": 0.14,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "1548.06",
+      "priceHistory": [
+        "1407.33"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额20.8亿，估算大单占比50%"
+          "detail": "成交额21.5亿，估算大单占比50%"
         }
       ],
       "score": 20
     },
     {
       "code": "000858",
-      "stockName": "五 粮 液",
+      "stockName": "五粮液",
       "sector": "白酒",
-      "current": 102.14,
-      "changePercent": 0.79,
+      "current": 102.24,
+      "changePercent": 0.89,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "111.47",
+      "priceHistory": [
+        "101.34"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额6.1亿，估算大单占比50%"
+          "detail": "成交额6.3亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -40,76 +54,907 @@
       "code": "000568",
       "stockName": "泸州老窖",
       "sector": "白酒",
-      "current": 103.43,
-      "changePercent": 0.04,
+      "current": 103.5,
+      "changePercent": 0.11,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "113.73",
+      "priceHistory": [
+        "103.39"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额3.2亿，估算大单占比50%"
+          "detail": "成交额3.3亿，估算大单占比50%"
         }
       ],
       "score": 20
+    },
+    {
+      "code": "002304",
+      "stockName": "洋河股份",
+      "sector": "白酒",
+      "current": 49.69,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "54.66",
+      "priceHistory": [
+        "49.69",
+        "49.69"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600809",
+      "stockName": "山西汾酒",
+      "sector": "白酒",
+      "current": 148.54,
+      "changePercent": 0.06,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "163.29",
+      "priceHistory": [
+        "148.45"
+      ],
+      "signals": [
+        {
+          "type": "资金流入",
+          "score": 20,
+          "level": "💰",
+          "desc": "大单资金可能流入",
+          "detail": "成交额3.3亿，估算大单占比50%"
+        }
+      ],
+      "score": 20
+    },
+    {
+      "code": "601398",
+      "stockName": "工商银行",
+      "sector": "银行",
+      "current": 7.32,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "8.05",
+      "priceHistory": [
+        "7.32"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601288",
+      "stockName": "农业银行",
+      "sector": "银行",
+      "current": 6.5,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "7.15",
+      "priceHistory": [
+        "6.50"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601939",
+      "stockName": "建设银行",
+      "sector": "银行",
+      "current": 9.32,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "10.25",
+      "priceHistory": [
+        "9.32"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601166",
+      "stockName": "兴业银行",
+      "sector": "银行",
+      "current": 18.72,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "20.59",
+      "priceHistory": [
+        "18.72"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600036",
+      "stockName": "招商银行",
+      "sector": "银行",
+      "current": 39.25,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "43.18",
+      "priceHistory": [
+        "39.25"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601328",
+      "stockName": "交通银行",
+      "sector": "银行",
+      "current": 6.82,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "7.50",
+      "priceHistory": [
+        "6.82"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601988",
+      "stockName": "中国银行",
+      "sector": "银行",
+      "current": 5.47,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "6.02",
+      "priceHistory": [
+        "5.47"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601658",
+      "stockName": "中信银行",
+      "sector": "银行",
+      "current": 5.02,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.52",
+      "priceHistory": [
+        "5.02"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600000",
+      "stockName": "浦发银行",
+      "sector": "银行",
+      "current": 10.04,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "11.04",
+      "priceHistory": [
+        "10.04"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601169",
+      "stockName": "北京银行",
+      "sector": "银行",
+      "current": 5.4,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.94",
+      "priceHistory": [
+        "5.40"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000001",
+      "stockName": "平安银行",
+      "sector": "银行",
+      "current": 10.88,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "11.97",
+      "priceHistory": [
+        "10.88"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002142",
+      "stockName": "宁波银行",
+      "sector": "银行",
+      "current": 30.03,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "33.03",
+      "priceHistory": [
+        "30.03"
+      ],
+      "signals": [],
+      "score": 30
     },
     {
       "code": "601318",
       "stockName": "中国平安",
       "sector": "保险",
-      "current": 58.56,
-      "changePercent": 0.76,
+      "current": 58.55,
+      "changePercent": 0.74,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "63.93",
+      "priceHistory": [
+        "58.12"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额20.6亿，估算大单占比30%"
+          "detail": "成交额21.3亿，估算大单占比30%"
         }
       ],
       "score": 20
+    },
+    {
+      "code": "601628",
+      "stockName": "中国人寿",
+      "sector": "保险",
+      "current": 39.29,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "43.22",
+      "priceHistory": [
+        "39.29"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601601",
+      "stockName": "中国太保",
+      "sector": "保险",
+      "current": 37.59,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "41.35",
+      "priceHistory": [
+        "37.59"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600030",
+      "stockName": "中信证券",
+      "sector": "券商",
+      "current": 24.36,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "26.80",
+      "priceHistory": [
+        "24.36"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601688",
+      "stockName": "华泰证券",
+      "sector": "券商",
+      "current": 18.44,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "20.28",
+      "priceHistory": [
+        "18.44"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600837",
+      "stockName": "海通证券",
+      "sector": "券商",
+      "current": 10.41,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "11.45",
+      "priceHistory": [
+        "10.41"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601211",
+      "stockName": "国泰君安",
+      "sector": "券商",
+      "current": 17.03,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "18.73",
+      "priceHistory": [
+        "17.03"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601012",
+      "stockName": "隆基绿能",
+      "sector": "光伏",
+      "current": 19.04,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "20.94",
+      "priceHistory": [
+        "19.04"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600438",
+      "stockName": "通威股份",
+      "sector": "光伏",
+      "current": 17.42,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "19.16",
+      "priceHistory": [
+        "17.42"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600089",
+      "stockName": "特变电工",
+      "sector": "光伏",
+      "current": 28.51,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "31.36",
+      "priceHistory": [
+        "28.51"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601877",
+      "stockName": "正泰电器",
+      "sector": "光伏",
+      "current": 34.8,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "38.28",
+      "priceHistory": [
+        "34.80"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002459",
+      "stockName": "晶澳科技",
+      "sector": "光伏",
+      "current": 12.35,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "13.59",
+      "priceHistory": [
+        "12.35"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002129",
+      "stockName": "TCL 中环",
+      "sector": "光伏",
+      "current": 9.69,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "10.66",
+      "priceHistory": [
+        "9.69"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000100",
+      "stockName": "TCL 科技",
+      "sector": "面板",
+      "current": 4.36,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "4.80",
+      "priceHistory": [
+        "4.36"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000725",
+      "stockName": "京东方 A",
+      "sector": "面板",
+      "current": 4,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "4.40",
+      "priceHistory": [
+        "4.00"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002594",
+      "stockName": "比亚迪",
+      "sector": "新能源汽车",
+      "current": 106.64,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "117.30",
+      "priceHistory": [
+        "106.64",
+        "106.64"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600418",
+      "stockName": "江淮汽车",
+      "sector": "汽车",
+      "current": 45.88,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "50.47",
+      "priceHistory": [
+        "45.88"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601238",
+      "stockName": "广汽集团",
+      "sector": "汽车",
+      "current": 7.29,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "8.02",
+      "priceHistory": [
+        "7.29"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600104",
+      "stockName": "上汽集团",
+      "sector": "汽车",
+      "current": 14.08,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "15.49",
+      "priceHistory": [
+        "14.08",
+        "14.08"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601633",
+      "stockName": "长城汽车",
+      "sector": "汽车",
+      "current": 20.72,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "22.79",
+      "priceHistory": [
+        "20.72"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601127",
+      "stockName": "赛力斯",
+      "sector": "新能源汽车",
+      "current": 97.07,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "106.78",
+      "priceHistory": [
+        "97.07"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000625",
+      "stockName": "长安汽车",
+      "sector": "汽车",
+      "current": 10.14,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "11.15",
+      "priceHistory": [
+        "10.14"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000338",
+      "stockName": "潍柴动力",
+      "sector": "汽车零部件",
+      "current": 23.71,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "26.08",
+      "priceHistory": [
+        "23.71"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002472",
+      "stockName": "三花智控",
+      "sector": "汽车零部件",
+      "current": 36.45,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "40.10",
+      "priceHistory": [
+        "36.45"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002594",
+      "stockName": "比亚迪",
+      "sector": "新能源汽车",
+      "current": 106.64,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "117.30",
+      "priceHistory": [
+        "106.64",
+        "106.64"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002460",
+      "stockName": "赣锋锂业",
+      "sector": "锂电池",
+      "current": 69.21,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "76.13",
+      "priceHistory": [
+        "69.21"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002497",
+      "stockName": "雅化集团",
+      "sector": "锂电池",
+      "current": 21.95,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "24.14",
+      "priceHistory": [
+        "21.95"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002709",
+      "stockName": "天赐材料",
+      "sector": "锂电池",
+      "current": 43.46,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "47.81",
+      "priceHistory": [
+        "43.46"
+      ],
+      "signals": [],
+      "score": 30
     },
     {
       "code": "603799",
       "stockName": "华友钴业",
       "sector": "锂电池",
-      "current": 57.54,
-      "changePercent": 2.13,
+      "current": 57.47,
+      "changePercent": 2.01,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "61.97",
+      "priceHistory": [
+        "56.34"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额26.0亿，估算大单占比30%"
+          "detail": "成交额26.6亿，估算大单占比30%"
         }
       ],
       "score": 20
+    },
+    {
+      "code": "600547",
+      "stockName": "山东黄金",
+      "sector": "黄金",
+      "current": 38.67,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "42.54",
+      "priceHistory": [
+        "38.67"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601899",
+      "stockName": "紫金矿业",
+      "sector": "有色金属",
+      "current": 32.2,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "35.42",
+      "priceHistory": [
+        "32.20"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600362",
+      "stockName": "江西铜业",
+      "sector": "有色金属",
+      "current": 43.73,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "48.10",
+      "priceHistory": [
+        "43.73"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000878",
+      "stockName": "云南铜业",
+      "sector": "有色金属",
+      "current": 18.38,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "20.22",
+      "priceHistory": [
+        "18.38"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000630",
+      "stockName": "铜陵有色",
+      "sector": "有色金属",
+      "current": 5.81,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "6.39",
+      "priceHistory": [
+        "5.81"
+      ],
+      "signals": [],
+      "score": 30
     },
     {
       "code": "600276",
       "stockName": "恒瑞医药",
       "sector": "医药",
-      "current": 54,
-      "changePercent": 0.67,
+      "current": 53.98,
+      "changePercent": 0.63,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "59.00",
+      "priceHistory": [
+        "53.64"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额13.0亿，估算大单占比30%"
+          "detail": "成交额13.4亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
+      "code": "600436",
+      "stockName": "片仔癀",
+      "sector": "医药",
+      "current": 152.69,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "167.96",
+      "priceHistory": [
+        "152.69"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600085",
+      "stockName": "同仁堂",
+      "sector": "医药",
+      "current": 28.6,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "31.46",
+      "priceHistory": [
+        "28.60"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600518",
+      "stockName": "康美药业",
+      "sector": "医药",
+      "current": 1.73,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "1.90",
+      "priceHistory": [
+        "1.73"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
       "code": "000538",
       "stockName": "云南白药",
       "sector": "医药",
-      "current": 55.58,
-      "changePercent": 0.16,
+      "current": 55.56,
+      "changePercent": 0.13,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "61.04",
+      "priceHistory": [
+        "55.49"
+      ],
       "signals": [
         {
           "type": "资金流入",
@@ -125,8 +970,15 @@
       "code": "000661",
       "stockName": "长春高新",
       "sector": "医药",
-      "current": 85.86,
-      "changePercent": 1.19,
+      "current": 85.73,
+      "changePercent": 1.04,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "93.34",
+      "priceHistory": [
+        "84.85"
+      ],
       "signals": [
         {
           "type": "资金流入",
@@ -139,52 +991,531 @@
       "score": 20
     },
     {
+      "code": "000963",
+      "stockName": "华东医药",
+      "sector": "医药",
+      "current": 33.87,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "37.26",
+      "priceHistory": [
+        "33.87"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601607",
+      "stockName": "上海医药",
+      "sector": "医药",
+      "current": 16.47,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "18.12",
+      "priceHistory": [
+        "16.47"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600998",
+      "stockName": "九州通",
+      "sector": "医药流通",
+      "current": 5.01,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.51",
+      "priceHistory": [
+        "5.01"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600763",
+      "stockName": "通策医疗",
+      "sector": "医疗",
+      "current": 41.28,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "45.41",
+      "priceHistory": [
+        "41.28"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600690",
+      "stockName": "海尔智家",
+      "sector": "家电",
+      "current": 23.35,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "25.69",
+      "priceHistory": [
+        "23.35"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600104",
+      "stockName": "上汽集团",
+      "sector": "汽车",
+      "current": 14.08,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "15.49",
+      "priceHistory": [
+        "14.08",
+        "14.08"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
       "code": "000333",
       "stockName": "美的集团",
       "sector": "家电",
-      "current": 74.39,
-      "changePercent": 0.22,
+      "current": 74.36,
+      "changePercent": 0.18,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "81.65",
+      "priceHistory": [
+        "74.23"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额7.2亿，估算大单占比30%"
+          "detail": "成交额7.5亿，估算大单占比30%"
         }
       ],
       "score": 20
+    },
+    {
+      "code": "000651",
+      "stockName": "格力电器",
+      "sector": "家电",
+      "current": 37.6,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "41.36",
+      "priceHistory": [
+        "37.60"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600887",
+      "stockName": "伊利股份",
+      "sector": "乳业",
+      "current": 25.7,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "28.27",
+      "priceHistory": [
+        "25.70"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600597",
+      "stockName": "光明乳业",
+      "sector": "乳业",
+      "current": 7.46,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "8.21",
+      "priceHistory": [
+        "7.46"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000895",
+      "stockName": "双汇发展",
+      "sector": "食品",
+      "current": 27.62,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "30.38",
+      "priceHistory": [
+        "27.62"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002304",
+      "stockName": "洋河股份",
+      "sector": "白酒",
+      "current": 49.69,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "54.66",
+      "priceHistory": [
+        "49.69",
+        "49.69"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600729",
+      "stockName": "重庆百货",
+      "sector": "零售",
+      "current": 22.11,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "24.32",
+      "priceHistory": [
+        "22.11"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002024",
+      "stockName": "苏宁易购",
+      "sector": "零售",
+      "current": 1.31,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "1.44",
+      "priceHistory": [
+        "1.31"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600048",
+      "stockName": "保利发展",
+      "sector": "房地产",
+      "current": 5.97,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "6.57",
+      "priceHistory": [
+        "5.97"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000002",
+      "stockName": "万科 A",
+      "sector": "房地产",
+      "current": 4.09,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "4.50",
+      "priceHistory": [
+        "4.09"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601186",
+      "stockName": "中国铁建",
+      "sector": "基建",
+      "current": 6.99,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "7.69",
+      "priceHistory": [
+        "6.99"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601390",
+      "stockName": "中国中铁",
+      "sector": "基建",
+      "current": 5.44,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.98",
+      "priceHistory": [
+        "5.44"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601668",
+      "stockName": "中国建筑",
+      "sector": "基建",
+      "current": 4.88,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.37",
+      "priceHistory": [
+        "4.88"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601088",
+      "stockName": "中国神华",
+      "sector": "煤炭",
+      "current": 48.48,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "53.33",
+      "priceHistory": [
+        "48.48"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600188",
+      "stockName": "兖矿能源",
+      "sector": "煤炭",
+      "current": 20.53,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "22.58",
+      "priceHistory": [
+        "20.53"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601857",
+      "stockName": "中国石油",
+      "sector": "石油",
+      "current": 11.99,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "13.19",
+      "priceHistory": [
+        "11.99"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600028",
+      "stockName": "中国石化",
+      "sector": "石油",
+      "current": 5.94,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "6.53",
+      "priceHistory": [
+        "5.94"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600938",
+      "stockName": "中国海油",
+      "sector": "石油",
+      "current": 41.95,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "46.15",
+      "priceHistory": [
+        "41.95"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600050",
+      "stockName": "中国联通",
+      "sector": "通信",
+      "current": 4.54,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "4.99",
+      "priceHistory": [
+        "4.54"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601728",
+      "stockName": "中国电信",
+      "sector": "通信",
+      "current": 5.85,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "6.44",
+      "priceHistory": [
+        "5.85"
+      ],
+      "signals": [],
+      "score": 30
     },
     {
       "code": "600941",
       "stockName": "中国移动",
       "sector": "通信",
-      "current": 93.9,
-      "changePercent": 0.02,
-      "signals": [
-        {
-          "type": "资金流入",
-          "score": 20,
-          "level": "💰",
-          "desc": "大单资金可能流入",
-          "detail": "成交额4.4亿，估算大单占比30%"
-        }
+      "current": 93.88,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "103.27",
+      "priceHistory": [
+        "93.88"
       ],
-      "score": 20
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000063",
+      "stockName": "中兴通讯",
+      "sector": "通信设备",
+      "current": 32.92,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "36.21",
+      "priceHistory": [
+        "32.92"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002236",
+      "stockName": "大华股份",
+      "sector": "安防",
+      "current": 16.66,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "18.33",
+      "priceHistory": [
+        "16.66"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002415",
+      "stockName": "海康威视",
+      "sector": "安防",
+      "current": 30.28,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "33.31",
+      "priceHistory": [
+        "30.28"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600745",
+      "stockName": "闻泰科技",
+      "sector": "半导体",
+      "current": 32.12,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "35.33",
+      "priceHistory": [
+        "32.12"
+      ],
+      "signals": [],
+      "score": 30
     },
     {
       "code": "603986",
       "stockName": "兆易创新",
       "sector": "半导体",
-      "current": 277.92,
-      "changePercent": 1.54,
+      "current": 276.28,
+      "changePercent": 0.94,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "301.08",
+      "priceHistory": [
+        "273.71"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额56.5亿，估算大单占比50%"
+          "detail": "成交额58.1亿，估算大单占比50%"
         }
       ],
       "score": 20
@@ -193,36 +1524,242 @@
       "code": "601138",
       "stockName": "工业富联",
       "sector": "AI 服务器",
-      "current": 50.13,
-      "changePercent": 2.64,
+      "current": 49.9,
+      "changePercent": 2.17,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "53.72",
+      "priceHistory": [
+        "48.84"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额44.7亿，估算大单占比30%"
+          "detail": "成交额46.5亿，估算大单占比30%"
         }
       ],
       "score": 20
     },
     {
+      "code": "600703",
+      "stockName": "三安光电",
+      "sector": "半导体",
+      "current": 13.85,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "15.24",
+      "priceHistory": [
+        "13.85"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002156",
+      "stockName": "通富微电",
+      "sector": "半导体",
+      "current": 42.08,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "46.29",
+      "priceHistory": [
+        "42.08"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "002185",
+      "stockName": "华天科技",
+      "sector": "半导体",
+      "current": 12.34,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "13.57",
+      "priceHistory": [
+        "12.34"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600764",
+      "stockName": "中国海防",
+      "sector": "军工",
+      "current": 23.83,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "26.21",
+      "priceHistory": [
+        "23.83"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600150",
+      "stockName": "中国船舶",
+      "sector": "军工",
+      "current": 31.58,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "34.74",
+      "priceHistory": [
+        "31.58"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601989",
+      "stockName": "中国重工",
+      "sector": "军工",
+      "current": 5.1,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "5.61",
+      "priceHistory": [
+        "5.10"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000768",
+      "stockName": "中航西飞",
+      "sector": "军工",
+      "current": 24.63,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "27.09",
+      "priceHistory": [
+        "24.63"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
       "code": "002049",
       "stockName": "紫光国微",
       "sector": "军工电子",
-      "current": 68.62,
-      "changePercent": 1.81,
+      "current": 68.59,
+      "changePercent": 1.77,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "74.14",
+      "priceHistory": [
+        "67.40"
+      ],
       "signals": [
         {
           "type": "资金流入",
           "score": 20,
           "level": "💰",
           "desc": "大单资金可能流入",
-          "detail": "成交额5.9亿，估算大单占比30%"
+          "detail": "成交额6.0亿，估算大单占比30%"
         }
       ],
       "score": 20
+    },
+    {
+      "code": "600900",
+      "stockName": "长江电力",
+      "sector": "电力",
+      "current": 27.1,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "29.81",
+      "priceHistory": [
+        "27.10"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "601991",
+      "stockName": "大唐发电",
+      "sector": "电力",
+      "current": 4.24,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "4.66",
+      "priceHistory": [
+        "4.24"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600011",
+      "stockName": "华能国际",
+      "sector": "电力",
+      "current": 7.52,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "8.27",
+      "priceHistory": [
+        "7.52"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "600886",
+      "stockName": "国投电力",
+      "sector": "电力",
+      "current": 14.47,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "15.92",
+      "priceHistory": [
+        "14.47"
+      ],
+      "signals": [],
+      "score": 30
+    },
+    {
+      "code": "000027",
+      "stockName": "深圳能源",
+      "sector": "电力",
+      "current": 7.31,
+      "changePercent": 0,
+      "rsi": 50,
+      "volumeRatio": "1.0",
+      "macd": "震荡",
+      "targetPrice": "8.04",
+      "priceHistory": [
+        "7.31"
+      ],
+      "signals": [],
+      "score": 30
     }
   ],
-  "lastScan": "2026年3月25日 11:13"
+  "lastScan": "2026年3月25日 11:20"
 }
